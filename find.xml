@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MultiCounter'" />
-    <option name="defaultScopeName" value="Project 'MultiCounter'" />
-    <option name="SEARCH_SCOPE" value="Project 'MultiCounter'" />
+    <option name="customScope" value="Project 'shoplist-servlet'" />
+    <option name="defaultScopeName" value="Project 'shoplist-servlet'" />
+    <option name="SEARCH_SCOPE" value="Project 'shoplist-servlet'" />
   </component>
 </application>
